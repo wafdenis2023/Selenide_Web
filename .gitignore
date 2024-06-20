@@ -1,0 +1,102 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# Directories created by popular Java IDEs
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
+
+# Maven specific files
+target/
+allure-results/
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# Eclipse specific files
+.metadata/
+.recommenders/
+.apt_generated/
+.factorypath
+.antlr4/
+.externalToolBuilders/
+.cproject
+.cdt-build/
+.cdtconfig/
+.csettings/
+.language.settings.xml
+.launches/
+.buildpath
+.mymetadata
+# Upsource
+.upsource/
+
+# NetBeans specific files
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# IntelliJ IDEA specific files
+.idea/
+*.iws
+*.ipr
+*.iml
+out/
+
+# VS Code specific files
+.vscode/
+
+# Selenium specific files
+chromedriver
+geckodriver
+phantomjs
+
+# Selenide specific files
+selenide-reports/
+selenide-screenshots/
+
+# JUnit test reports
+surefire-reports/
+test-output/
+failsafe-reports/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Sensitive files
+apikeys/
+credentials/
+config/
